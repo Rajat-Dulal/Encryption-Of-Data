@@ -21,3 +21,5 @@ MS SQL Server
 cd Website
 2) Run manage.py 
 python manage.py runserver
+
+You can find the documentation and presentation slides at: https://drive.google.com/drive/folders/18xn0PgbEPCv_fRv5FZfzAr5zjIMPBrTf?usp=sharing
